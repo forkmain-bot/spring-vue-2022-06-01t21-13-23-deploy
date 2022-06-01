@@ -14,7 +14,7 @@ image:
   repository: ghcr.io/heigliner-robot/spring-vue-2022-06-01t21-13-23-backend
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "main"
+  tag: "f4d05de"
 imagePullSecrets:
   - name: spring-vue-2022-06-01t21-13-23
 nameOverride: ""
